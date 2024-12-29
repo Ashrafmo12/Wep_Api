@@ -1,0 +1,6 @@
+@new_ass_HostAddress = http://localhost:5161
+
+GET {{new_ass_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
